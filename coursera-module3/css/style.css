@@ -1,1 +1,60 @@
-<html></html>
+body{
+  background-color: cornsilk;
+}
+#header-nav  {
+    background-color: rgb(230, 121, 121);
+
+  
+}
+
+#brand{
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  
+}
+
+#navlist li a {
+text-transform: uppercase;
+color: whitesmoke ;
+background-color: black;
+border: 1px solid lightblue;
+
+
+}
+#navlist li a:hover {
+  background: blanchedalmond;
+  color: black;
+ 
+}
+
+.navbar-dark .navbar-toggler {
+  color: rgb(13 13 13 / 55%);
+  border-color: #141619;
+}
+.navbar{
+  background-color: darkgrey;
+}
+.box{
+  border: 1px solid black;
+  background-color: lemonchiffon;
+  margin-top: 1%;
+   
+  
+}
+  
+  
+
+@media(min-width: 575px) and (max-width: 1600px){ 
+  #navlist{
+    display: none;
+
+}
+
+
+}
+@media(min-width:768px){
+  .navbar-toggler{
+    display: none;
+  }
+}
