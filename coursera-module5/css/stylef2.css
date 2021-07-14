@@ -81,7 +81,7 @@ h2 span {
 	display:inline-block;
 }
 .ScriptTop li a {
-    background: #6a4aed none repeat scroll 0 0;
+    background: #61122f none repeat scroll 0 0;
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -149,18 +149,6 @@ h2 span {
 
 
 
-
-/* ******************************************************
-	Live Demo
-*********************************************************/
-
-
-
-
-
-/* ******************************************************
-	Responsive Grids
-*********************************************************/
 
 .rt-container {
 	margin: 0 auto;
